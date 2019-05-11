@@ -16,14 +16,14 @@ w = canvas.width,
 h = canvas.height;
 
 c.strokeStyle = 'red';
-c.fillStyle = 'white';
+c.fillStyle = 'red';
 c.lineWidth = 5;
 
 // constructor
 Word = function(key) {
 this.text = key;
 this.x = Math.random() * w;
-this.y = Math.random() * h;
+this.y = Math.random() * 10 + 'px arial';
 this.font = words[key] * 15 + 'px arial'
 this.speed = (words[key]);
 }
