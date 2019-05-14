@@ -40,6 +40,12 @@ File: Layout CSS
 #pageintro footer{margin-top:80px;}
 
 
+/*---------*/
+table, tr, td {
+    border: none;
+}
+
+
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
 .container{padding:80px 0;}
