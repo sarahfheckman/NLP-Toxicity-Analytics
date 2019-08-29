@@ -28,5 +28,5 @@ Submitted to [Jigsaw's Unintended Bias in Toxicity Classification competition on
 #### Getting Started
 1) Clone into this repo
 2) Go into Edgepress folder 
-3) Right click Index html; open in chrome or firefox browser 
+3) Right click on the Index.html file; open in Chrome or Firefox browser 
 4) Explore! 
