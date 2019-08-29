@@ -3,27 +3,27 @@ Submitted to [Jigsaw's Unintended Bias in Toxicity Classification competition on
 
 
 ### Partners
-Shade Petteway - github.com/pettewayshade
-Thinh Nguyen - github.com/thingNg
-Walter Thomas - github.com/cenious
-Brijesh Patel
-Diane Tata
+* Shade Petteway - github.com/pettewayshade
+* Thinh Nguyen - github.com/thingNg
+* Walter Thomas - github.com/cenious
+* Brijesh Patel
+* Diane Tata
 
 ### Methods
-Machine Learning
-Natural Language Processing
-Predictive Modeling
-Visualizations
-Ad Hoc Analysis
+* Machine Learning
+* Natural Language Processing
+* Predictive Modeling
+* Visualizations
+* Ad Hoc Analysis
 
 ### Technologies
-Python
-Pandas, Numpy, Scikit Learn
-GloVe algorithm 
-Javascript
-Tableau
-HTML
-CSS
+* Python
+* Pandas, Numpy, Scikit Learn
+* GloVe algorithm 
+* Javascript
+* Tableau
+* HTML
+* CSS
 
 #### Getting Started
 1) Clone into this repo
