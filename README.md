@@ -1,5 +1,5 @@
 # NLP Toxicity Analytics
-Submitted to [Jigsaw Unintended Bias in Toxicity Classification competition on Kaggle](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification). A classification and prediciton model using sentiment analysis to predict and filter "toxic" comments made online, plus some ad hoc analysis and visualizations created with the provided historical data. In an age where hate speech online is rampant, it's crucial to have methods to detect potentially harmful comments made online. 
+Submitted to [Jigsaw's Unintended Bias in Toxicity Classification competition on Kaggle](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification). A classification and prediciton model using sentiment analysis to predict and filter "toxic" comments made online, plus some ad hoc analysis and visualizations created with the provided historical data. In an age where hate speech online is rampant, it's crucial to have methods to detect potentially harmful comments made online. 
 
 
 ### Partners
